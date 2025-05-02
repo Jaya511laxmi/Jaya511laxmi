@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jaya Laxmi!
 
-🎓 Final-year B.Tech CSE student at Shri Ram Murti Smarak College, Bareilly  
+🎓 Final-year B.Tech CSE student
 💻  Java | Spring Boot | AWS | SQL | Linux
 
 ---
