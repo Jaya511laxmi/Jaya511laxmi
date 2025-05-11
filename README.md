@@ -9,9 +9,8 @@
 
 - 👩‍💻 Developer Intern at RivaTek Systems Pvt. Ltd.  
 - 🔭 Currently working on full-stack web apps using Spring Boot  
-- 🌱 Learning advanced topics like docker and quality assurance
-- 🛠️ Passionate about building scalable, secure, and clean-coded software  
-- 🏆 Awarded ₹20,000 in academic scholarships for performance and dedication
+- 🌱 Learning advanced topics like docker and quality assurance 
+- 🏆 Awarded ₹80,000 in academic scholarships for performance and dedication
 
 ---
 
@@ -23,7 +22,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Backend & Frameworks**:  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) (little little)
 ![REST API](https://img.shields.io/badge/REST--API-FF6F61?style=for-the-badge)
 
 **Frontend**:  
