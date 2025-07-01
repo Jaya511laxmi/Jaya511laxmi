@@ -22,13 +22,21 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Backend & Frameworks**:  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) (little little)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST--API-FF6F61?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
 
 **Frontend**:  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AIML**:  
+![LLM](https://img.shields.io/badge/LLM-4B6BFB?style=for-the-badge&logo=openai&logoColor=white)
+![VectorDB](https://img.shields.io/badge/Vector_DB-FF6F61?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAABzGZVDAAAAeUlEQVR4Ae3YIQqAMAwD0H2/6OSdLYcoTpCe4iRAEr0Jo7QzOHY6S5q3NT3GuI4jyvD+kmD69xkYuU+4SeyQ5Pz1yRmB5Z/3efL4dfx+/q08PvzPZ7jPBxHwHzcXxK84P4zIBSwAAAABJRU5ErkJggg==&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 **Database**:  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
