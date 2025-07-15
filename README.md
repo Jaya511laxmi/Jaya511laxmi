@@ -59,7 +59,7 @@ Tech Used: Python, Node.js, React.js.
 > A healthcare management system with role-based access  
 Tech Used: React.js, Node.js, MongoDB, REST API, Express.js
 
-### 🔹 [Weather Dashboard (Power BI)](https://github.com/Jaya511laxmi/HealEaseproject)
+### 🔹 [Weather Dashboard (Power BI)](https://github.com/Jaya511laxmi/weather-dashboard-powerbi)
 > Visualized live weather data across cities using REST API, DAX, and M‑Query in Power BI.
 Tech Used: Power BI, DAX
 
