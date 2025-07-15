@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 👩‍💻 Developer Intern at RivaTek Systems Pvt. Ltd.  
-- 🔭 Currently working on full-stack web apps using Spring Boot  
+- 🔭 Currently working on Data Analytics
 - 🌱 Learning advanced topics like docker and quality assurance 
 - 🏆 Awarded ₹80,000 in academic scholarships for performance and dedication
 
