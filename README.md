@@ -51,7 +51,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [CardioScan]
+### 🔹 [CardioScan](https://github.com/Jaya511laxmi/CardioScan-updated)
 > A diagnostic web app for heart data analytics  
 Tech Used: Python, Node.js, React.js.
 
